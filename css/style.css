@@ -1,0 +1,10 @@
+header {
+    padding: 15px;
+    background: #022965;
+    color: white;
+    margin-bottom: 35px;
+}
+
+section > div > div > div {
+    padding: 35px;
+}
